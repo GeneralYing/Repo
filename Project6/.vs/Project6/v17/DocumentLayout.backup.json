@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YGY\\Desktop\\\u7F16\u7A0B\\Project6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DBC33A-84D3-4570-9FF4-C5296D6EADEF}|Project6.vcxproj|C:\\Users\\YGY\\Desktop\\\u7F16\u7A0B\\Project6\\Project6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DBC33A-84D3-4570-9FF4-C5296D6EADEF}|Project6.vcxproj|solutionrelative:Project6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project6.cpp",
+              "DocumentMoniker": "C:\\Users\\YGY\\Desktop\\\u7F16\u7A0B\\Project6\\Project6.cpp",
+              "RelativeDocumentMoniker": "Project6.cpp",
+              "ToolTip": "C:\\Users\\YGY\\Desktop\\\u7F16\u7A0B\\Project6\\Project6.cpp",
+              "RelativeToolTip": "Project6.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T01:04:08.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
